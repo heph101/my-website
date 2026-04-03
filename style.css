@@ -1,0 +1,17 @@
+*{margin:0;padding:0;}
+img{width: 200px;height: 200px;
+border: width 2px;;border-color:#b98592;border-style:solid;border-radius: 10%;}
+.cat-container{display: flex;flex-wrap: wrap;justify-content: center;gap: 25px;background-color:#5a3e45;} 
+a{text-decoration: none;color:#f7e8e8;letter-spacing: 1px;font-size: 20px;font-family:sans-serif;}
+img:hover{width: 250px;height: 250px;transition: 1s;}
+.card{padding:50px;width: 375px;height: 375px; border: width 1px;border-color:#b98592;border-style: solid;border-radius: 10%;background-color:#7b5a5e;}
+.card:hover{width: 300px;height: 300px;transition:1s;}
+a:hover{font-size: 15px;transition: 1s;}
+h1{margin:0;text-align: center;letter-spacing:10px;font-size:60px;color: #f7e8e8;padding-bottom:80px;padding-top:80px;}
+h2{margin:0;text-align: center;letter-spacing: 1px;font-size: 30px;color: #f7e8e8;padding-bottom:80px;}
+section{margin:zero;background-color:#5a3e45;}
+h1:hover{font-size:80px;transition:2s;}
+h2:hover{font-size:50px;transition:2s;}
+form{margin:0%; padding:0%;background-color:#5a3e45;padding-left:200px;padding-bottom: 60px;}
+input{width: 250px;height: 50px;border-width:5px;border-radius:20px;background-color: rgb(204, 160, 186);color: #f7e8e8;border-style:solid;border-color:#b98592}
+button{width:100px;height: 50px;border-radius: 20px;background-color:#47383c;color:#f7e8e8;border-style:solid;border-color: #363233;}
